@@ -1,2 +1,2 @@
-# Library-Management-System
-A comprehensive library management system , that keep records of user and books and their attributes . Applies fine on users who borrows book more then instructed duration . Maintains a file system for records . OOP concepts was used for it and it is designed in c++
+# Hotel-Management-System
+A comprehensive HOTEL management system , that keep records of CLIENTS and ROoms and their attributes . This makes bills on basis of nights stayed . The admin an change the room rents and capacity of persons . Rooms status as occupied or free. Rooms have categories on which they are charged . OOP concepts was used for it and it is designed in c++
